@@ -23,5 +23,4 @@ public class MainActivity extends AppCompatActivity {
     public void endEcg(View view) {
         mEcgView.stopEcgView();
     }
-
 }
